@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TFuray
-- 👀 I’m interested in becoming job ready and starting a new career
-- 🌱 I’m currently learning python and computer science
+Software developer focusing on web development. In the early stages of 
+but enjoy learning more everyday. 
 
 <!---
 TFuray/TFuray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
