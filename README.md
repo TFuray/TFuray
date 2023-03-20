@@ -18,7 +18,7 @@
 - When not behind a screen I'm flying FPV drones | Part 107 pilot.
 
 
-OtterTechSolutions.com
+<a href="https://ottertechsolutions.com">OtterTechSolutions.com </a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
