@@ -17,6 +17,8 @@
 - Love the fast past evolution of the development landscape. Always looking to learn something new.
 - When not behind a screen I'm flying FPV drones | Part 107 pilot.
 
+
+OtterTechSolutions.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
